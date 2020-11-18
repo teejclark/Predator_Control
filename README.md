@@ -12,4 +12,4 @@ All analyses were done in `R`. The data to reproduce the empirical analyses are 
 
 The analysis code is released under the [CC-BY-4.0](https://opensource.org/licenses/mit-license.php).
 
-[![DOI](https://zenodo.org/badge/179763362.svg)](https://zenodo.org/badge/latestdoi/179763362)
+
